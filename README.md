@@ -1,2 +1,6 @@
-# Unix-Directory-Cheat-Sheet
-Quick reference for what the directories in Unix are supposed to be used for.
+# Unix Directory Cheatsheet
+
+What are all those directories for?
+
+- [Linux](Linux.md)
+- [BSD / MacOS](BSD.md)
